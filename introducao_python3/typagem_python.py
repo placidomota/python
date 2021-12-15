@@ -1,0 +1,2 @@
+pais = "Brasil"
+type(pais)
